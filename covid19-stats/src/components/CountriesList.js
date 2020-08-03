@@ -31,7 +31,7 @@ class CountriesList extends React.Component {
         })
       
         return (
-            <div>
+            <div className="container">
               {countryComponents}
             </div>
         )
